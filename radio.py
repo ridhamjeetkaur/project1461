@@ -1,0 +1,38 @@
+import streamlit as st
+
+
+
+#a c m n
+
+a = st.radio( "Would you like to develop a  medicine?",('yes ','no','not sure'))
+b = st.radio("Do you like music",('yes ','no','not sure'))
+c =st.radio('Would you like to  write a book?',('yes ','no','not sure'))
+d =st.radio('Would you Buy and sell land',('yes ','no','not sure'))
+d =st.radio('Wold you like to handle bank transactions?',('yes ','no','not sure'))
+d =st.radio('Wouls you like to do chemical experiments',('yes ','no','not sure'))
+d =st.radio('',('yes ','no','not sure'))
+d =st.radio('',('yes ','no','not sure'))
+d =st.radio('',('yes ','no','not sure'))
+d =st.radio('',('yes ','no','not sure'))
+d =st.radio('',('yes ','no','not sure'))
+d =st.radio('',('yes ','no','not sure'))
+d =st.radio('',('yes ','no','not sure'))
+d =st.radio('',('yes ','no','not sure'))
+d =st.radio('',('yes ','no','not sure'))
+d =st.radio('',('yes ','no','not sure'))
+d =st.radio('',('yes ','no','not sure'))
+d =st.radio('',('yes ','no','not sure'))
+d =st.radio('',('yes ','no','not sure'))
+d =st.radio('',('yes ','no','not sure'))
+d =st.radio('',('yes ','no','not sure'))
+d =st.radio('',('yes ','no','not sure'))
+d =st.radio('',('yes ','no','not sure'))
+d =st.radio('',('yes ','no','not sure'))
+d =st.radio('',('yes ','no','not sure'))
+d =st.radio('',('yes ','no','not sure'))
+d =st.radio('',('yes ','no','not sure'))
+d =st.radio('',('yes ','no','not sure'))
+d =st.radio('',('yes ','no','not sure'))
+d =st.radio('',('yes ','no','not sure'))
+d =st.radio('',('yes ','no','not sure'))
+d =st.radio('',('yes ','no','not sure'))
