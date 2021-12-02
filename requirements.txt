@@ -3,3 +3,9 @@ PIL
 streamlit
 LogisticRegression
 sklearn
+Image
+pandas
+numpy
+ipywidgets
+time
+train_test_split
