@@ -4,9 +4,9 @@ import ipywidgets as ipy
 import streamlit as st
 from PIL import Image
 
-#from sklearn.linear_model import LogisticRegression
+from sklearn.linear_model import LogisticRegression
 import time
-#from   sklearn.model_selection import train_test_split
+from   sklearn.model_selection import train_test_split
 
 st.session_state['answer'] = ''
 
