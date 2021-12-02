@@ -1,1 +1,5 @@
 KMeans
+PIL
+streamlit
+LogisticRegression
+sklearn
