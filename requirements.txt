@@ -1,19 +1,4 @@
 
-anaconda-client==1.7.2
-anaconda-navigator==2.0.3
-anaconda-project @ file:///tmp/build/80754af9/anaconda-project_1610472525955/work
-
-beautifulsoup4 @ file:///home/linux1/recipes/ci/beautifulsoup4_1610988766420/work
-
-cloudpickle @ file:///tmp/build/80754af9/cloudpickle_1598884132938/work
-
-conda==4.10.1
-conda-build==3.21.4
-conda-content-trust @ file:///tmp/build/80754af9/conda-content-trust_1617045594566/work
-conda-package-handling @ file:///C:/ci/conda-package-handling_1618262320430/work
-conda-repo-cli @ file:///tmp/build/80754af9/conda-repo-cli_1620168426516/work
-conda-token @ file:///tmp/build/80754af9/conda-token_1620076980546/work
-conda-verify==3.4.2
 
 gitdb==4.0.7
 GitPython==3.1.18
@@ -27,17 +12,6 @@ ipython @ file:///C:/ci/ipython_1617121002983/work
 ipython-genutils @ file:///tmp/build/80754af9/ipython_genutils_1606773439826/work
 ipywidgets @ file:///tmp/build/80754af9/ipywidgets_1610481889018/work
 
-jsonschema @ file:///tmp/build/80754af9/jsonschema_1602607155483/work
-jupyter==1.0.0
-jupyter-client @ file:///tmp/build/80754af9/jupyter_client_1616770841739/work
-jupyter-console @ file:///tmp/build/80754af9/jupyter_console_1616615302928/work
-jupyter-core @ file:///C:/ci/jupyter_core_1612213356021/work
-jupyter-packaging @ file:///tmp/build/80754af9/jupyter-packaging_1613502826984/work
-jupyter-server @ file:///C:/ci/jupyter_server_1616084298403/work
-jupyterlab @ file:///tmp/build/80754af9/jupyterlab_1619133235951/work
-jupyterlab-pygments @ file:///tmp/build/80754af9/jupyterlab_pygments_1601490720602/work
-jupyterlab-server @ file:///tmp/build/80754af9/jupyterlab_server_1617134334258/work
-jupyterlab-widgets @ file:///tmp/build/80754af9/jupyterlab_widgets_1609884341231/work
 
 LinearRegression==0.0.1
 
@@ -54,10 +28,6 @@ pickleshare @ file:///tmp/build/80754af9/pickleshare_1606932040724/work
 
 scikit-image==0.18.1
 scikit-learn @ file:///C:/ci/scikit-learn_1614446896245/work
-scipy @ file:///C:/ci/scipy_1618856128765/work
 seaborn @ file:///tmp/build/80754af9/seaborn_1608578541026/work
-
-
 streamlit==0.88.0
 
-widgetsnbextension==3.5.1
