@@ -1,32 +1,12 @@
 PIL== 1.1.7
-
-gitdb==4.0.7
-GitPython==3.1.18
-
 imagecodecs @ file:///C:/ci/imagecodecs_1617996768495/work
 imageio @ file:///tmp/build/80754af9/imageio_1617700267927/work
 imagesize @ file:///home/ktietz/src/ci/imagesize_1611921604382/work
-
-ipykernel @ file:///C:/ci/ipykernel_1596190155316/work/dist/ipykernel-5.3.4-py3-none-any.whl
-ipython @ file:///C:/ci/ipython_1617121002983/work
-ipython-genutils @ file:///tmp/build/80754af9/ipython_genutils_1606773439826/work
 ipywidgets @ file:///tmp/build/80754af9/ipywidgets_1610481889018/work
-
-
 LinearRegression==0.0.1
-
 matplotlib @ file:///C:/ci/matplotlib-suite_1613408055530/work
-
-navigator-updater==0.2.1
-
 numpy @ file:///C:/ci/numpy_and_numpy_base_1618497418457/work
-numpydoc @ file:///tmp/build/80754af9/numpydoc_1605117425582/work
-
 pandas @ file:///C:/ci/pandas_1618365634936/work
-
-pickleshare @ file:///tmp/build/80754af9/pickleshare_1606932040724/work
-
-scikit-image==0.18.1
 scikit-learn @ file:///C:/ci/scikit-learn_1614446896245/work
 seaborn @ file:///tmp/build/80754af9/seaborn_1608578541026/work
 streamlit==0.88.0
