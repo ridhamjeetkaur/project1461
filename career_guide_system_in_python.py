@@ -9,9 +9,6 @@ import time
 from   sklearn.model_selection import train_test_split
 
 
-st.write(st.session_state)
-st.write(answerStat)
-
 
 
 aptitude = pd.read_excel('aptitude_file.xlsx')
